@@ -220,4 +220,3 @@ $(window).load(function() {
 	$("#page-loader").delay(100).fadeOut("fast");
 });
 
-	
